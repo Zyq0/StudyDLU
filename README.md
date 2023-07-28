@@ -2,7 +2,7 @@
 
 大学校园课表小程序实战课程开源项目
 
-UI设计稿地址：[https://js.design/f/LlnLBx?p=7PluEepcpc](https://js.design/f/LlnLBx?p=7PluEepcpc)
+UI设计稿地址：[https://mastergo.com/goto/rpCIDmXp](https://mastergo.com/goto/rpCIDmXp)
 
 后端项目地址：[https://github.com/danbaixi/BaiyunAPI](https://github.com/danbaixi/BaiyunAPI)
 
